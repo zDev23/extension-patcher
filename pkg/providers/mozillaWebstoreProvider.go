@@ -2,7 +2,7 @@ package providers
 
 import (
 	"fmt"
-	"github.com/ogame-ninja/extension-patcher/pkg/utils"
+	"github.com/zDev23/extension-patcher/pkg/utils"
 	"os"
 )
 
