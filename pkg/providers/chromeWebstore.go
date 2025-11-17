@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/ogame-ninja/extension-patcher/pkg/utils"
+	"github.com/zDev23/extension-patcher/pkg/utils"
 	"io"
 	"os"
 )
