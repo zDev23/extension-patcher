@@ -1,3 +1,3 @@
-module github.com/ogame-ninja/extension-patcher
+module github.com/zDev23/extension-patcher
 
 go 1.21.4
