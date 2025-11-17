@@ -13,6 +13,7 @@ const (
 	mozillaWebstorePrefix = "https://addons.mozilla.org/"
 	openUserJSPrefix      = "https://openuserjs.org/install/"
 	githubPrefix          = "https://github.com/"
+	greasyForkPrefix      = "https://greasyfork.org/"
 )
 
 type Provider interface {
